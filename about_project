@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first website</title>
+    <link rel = "stylesheet" type="text/css"  href = "styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>About Lara Croft</h1>
+    <img src="tomb-raider-6.jpg"/>
+    <img src = "https://vignette.wikia.nocookie.net/laracroft/images/1/1c/YAWAY%E2%80%99S_BATTLE_TUNIC.jpg/revision/latest/top-crop/width/300/height/300?cb=20180916151211"/>
+    <p><strong>Name:</strong> Lara Croft</p>
+    <p><strong>Pronouns:</strong> She/ Her/ Hers</p>
+    <p><strong>Orgin :</strong> Born and Raised in London, England</p>
+    <p><strong>Birthday:</strong> February 14th, 1992</p>
+    <p><strong>Age:</strong> 23</p>
+    <p><strong>Family:</strong> Father-Richard James Croft(Deceased), Mother- Amelia Croft(Deceased)</p>
+    <p><strong>Favorite Sports:</strong>  Freeclimbing, Shooting, Riding, Canoeing</p>
+    <img src= "https://www.nortonmotorcycles.com/Nav-Sport.jpg"/>
+    <p><strong>Favorite Thing to do in Spare Time:</strong>Riding Norton StreetFighter Motorbike</p>
+    <img src = "https://vignette.wikia.nocookie.net/laracroft/images/7/7a/The_Atlas.png/revision/latest?cb=20151027113224"/>
+    <img src = "https://vignette.wikia.nocookie.net/laracroft/images/c/ce/Silver_Box_of_Ix_Chel.png/revision/latest?cb=20180920113734"/>
+    <p><strong>Collections:</strong> Rare Artifacts from lost civilizations like Yamatai, Kitezh, and Paititi </p>
+    <p><strong>Education:</strong> University of London in Asian Archaeology</p>
+    <h3>Facts about Lara Croft</h3>
+    <li>She speaks multiple different languages</li>
+    <li>She is skilled in Archery </li>
+    <li>Renowned Archaeologist who ventures into Hidden Tombs and Ruins</li>
+
+    <br>
+
+   
+
+</body>
+</html>
